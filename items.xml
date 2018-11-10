@@ -12,7 +12,7 @@
   <items>
     <orphanhat>
       <name>Orphan&#x27;s Hat</name>
-      <type>clothing</type>
+      <type>head</type>
       <src>sprites/OrphanHeadBlueGrimy</src>
       <bark></bark>
       <price>0</price>
@@ -21,7 +21,7 @@
   <items>
     <potatosack>
       <name>Potato Sack</name>
-      <type>Clothing</type>
+      <type>clothing</type>
       <src>sprites/OrphanBodyPotatoSack</src>
       <bark></bark>
       <price>0</price>
@@ -39,7 +39,7 @@
   <items>
     <luckyhead>
       <name>Lucky Cut</name>
-      <type>clothing</type>
+      <type>head</type>
       <src>sprites/OrphanHeadLucky</src>
       <bark></bark>
       <price>0</price>
@@ -57,7 +57,7 @@
   <items>
     <wahhat>
       <name>Purple Hat</name>
-      <type>clothing</type>
+      <type>head</type>
       <src>sprites/OrphanHeadPurple</src>
       <bark></bark>
       <price>0</price>
@@ -75,7 +75,7 @@
   <items>
     <2bhead>
       <name>Android Wig</name>
-      <type>Clothing</type>
+      <type>head</type>
       <src>sprites/OrphanHeadTooby</src>
       <bark></bark>
       <price>0</price>
