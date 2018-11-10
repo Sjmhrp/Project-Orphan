@@ -28,6 +28,15 @@
       }
     },
     {
+      "luckyhead" : {
+        "name": "Lucky Cut",
+        "type": "clothing",
+        "src" : "sprites/OrphanHeadLucky",
+        "bark": "",
+        "price": 0
+      }
+    },
+    {
       "wah" : {
         "name": "Purple Overalls",
         "type": "clothing",
