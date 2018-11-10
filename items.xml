@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <items>
+    <orphanbody>
+      <name>Orphan&#x27;s Clothes</name>
+      <type>clothing</type>
+      <src>sprites/OrphanBodyBlue</src>
+      <bark></bark>
+      <price>0</price>
+    </orphanbody>
+  </items>
+  <items>
+    <orphanhat>
+      <name>Orphan&#x27;s Hat</name>
+      <type>clothing</type>
+      <src>sprites/OrphanHeadBlueGrimy</src>
+      <bark></bark>
+      <price>0</price>
+    </orphanhat>
+  </items>
+  <items>
+    <lucky>
+      <name>Lucky Clothes</name>
+      <type>clothing</type>
+      <src>sprites/OrphanBodyLucky</src>
+      <bark></bark>
+      <price>0</price>
+    </lucky>
+  </items>
+  <items>
+    <luckyhead>
+      <name>Lucky Cut</name>
+      <type>clothing</type>
+      <src>sprites/OrphanHeadLucky</src>
+      <bark></bark>
+      <price>0</price>
+    </luckyhead>
+  </items>
+  <items>
+    <wah>
+      <name>Purple Overalls</name>
+      <type>clothing</type>
+      <src>sprites/OrphanBodyPurple</src>
+      <bark>WAH</bark>
+      <price>0</price>
+    </wah>
+  </items>
+  <items>
+    <wahhat>
+      <name>Purple Hat</name>
+      <type>clothing</type>
+      <src>sprites/OrphanHeadPurple</src>
+      <bark></bark>
+      <price>0</price>
+    </wahhat>
+  </items>
+  <items>
+    <2bbody>
+      <name>Android Clothes</name>
+      <type>clothing</type>
+      <src>sprites/OrphanBodyTooby</src>
+      <bark></bark>
+      <price>0</price>
+    </2bbody>
+  </items>
+  <items>
+    <2bhead>
+      <name>Android Wig</name>
+      <type>Clothing</type>
+      <src>sprites/OrphanHeadTooby</src>
+      <bark></bark>
+      <price>0</price>
+    </2bhead>
+  </items>
+  <items><>
+    <name></name>
+    <type></type>
+    <src></src>
+    <bark></bark>
+    <price>0</price>
+  </>
+</items>
+<items><>
+  <name></name>
+  <type></type>
+  <src></src>
+  <bark></bark>
+  <price>0</price>
+</>undefined</items>undefined<items><>
+<name></name>
+<type></type>
+<src></src>
+<bark></bark>
+<price>0</price>undefined</>undefined</items>undefined<items><>undefined<name></name>undefined<type></type>undefined<src></src>undefined<bark></bark>undefined<price>0</price>undefined</>undefined</items>undefined<items><>undefined<name></name>undefined<type></type>undefined<src></src>undefined<bark></bark>undefined<price>0</price>undefined</>undefined</items>undefined<items><>undefined<name></name>undefined<type></type>undefined<src></src>undefined<bark></bark>undefined<price>0</price>undefined</>undefined</items>undefined</root>
