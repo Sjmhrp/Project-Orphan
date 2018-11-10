@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "orphanbody" : {
+        "name" : "Orphan's clothes",
+        "type" : "clothing",
+        "src" : "sprites/OrphanBodyBlue",
+        "dialogue": "",
+        "price" : 0
+      }
+    },
+    {
+      "orphanhat" : {
+        "name": "Orphan's hat",
+        "type": "clothing",
+        "src" : "sprites/OrphanHeadBlueGrimy",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "lucky" : {
+        "name": "Lucky clothes",
+        "type": "clothing",
+        "src" : "sprites/OrphanBodyLucky",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "wah" : {
+        "name": "Purple overalls",
+        "type": "clothing",
+        "src" : "sprites/OrphanBodyPurple",
+        "dialogue": "WAH",
+        "price": 0
+      }
+    },
+    {
+      "wahhat" : {
+        "name": "Purple hat",
+        "type": "clothing",
+        "src" : "sprite/OrphanHeadPurple",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    },
+    {
+      "" : {
+        "name": "",
+        "type": "",
+        "src" : "",
+        "dialogue": "",
+        "price": 0
+      }
+    }
+  ]
+}
