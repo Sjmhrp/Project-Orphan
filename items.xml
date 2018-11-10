@@ -81,23 +81,4 @@
       <price>0</price>
     </2bhead>
   </items>
-  <items><>
-    <name></name>
-    <type></type>
-    <src></src>
-    <bark></bark>
-    <price>0</price>
-  </>
-</items>
-<items><>
-  <name></name>
-  <type></type>
-  <src></src>
-  <bark></bark>
-  <price>0</price>
-</>undefined</items>undefined<items><>
-<name></name>
-<type></type>
-<src></src>
-<bark></bark>
-<price>0</price>undefined</>undefined</items>undefined<items><>undefined<name></name>undefined<type></type>undefined<src></src>undefined<bark></bark>undefined<price>0</price>undefined</>undefined</items>undefined<items><>undefined<name></name>undefined<type></type>undefined<src></src>undefined<bark></bark>undefined<price>0</price>undefined</>undefined</items>undefined<items><>undefined<name></name>undefined<type></type>undefined<src></src>undefined<bark></bark>undefined<price>0</price>undefined</>undefined</items>undefined</root>
+</root>
