@@ -2,46 +2,64 @@
   "items": [
     {
       "orphanbody" : {
-        "name" : "Orphan's clothes",
+        "name" : "Orphan's Clothes",
         "type" : "clothing",
         "src" : "sprites/OrphanBodyBlue",
-        "dialogue": "",
+        "bark": "",
         "price" : 0
       }
     },
     {
       "orphanhat" : {
-        "name": "Orphan's hat",
+        "name": "Orphan's Hat",
         "type": "clothing",
         "src" : "sprites/OrphanHeadBlueGrimy",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
     {
       "lucky" : {
-        "name": "Lucky clothes",
+        "name": "Lucky Clothes",
         "type": "clothing",
         "src" : "sprites/OrphanBodyLucky",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
     {
       "wah" : {
-        "name": "Purple overalls",
+        "name": "Purple Overalls",
         "type": "clothing",
         "src" : "sprites/OrphanBodyPurple",
-        "dialogue": "WAH",
+        "bark": "WAH",
         "price": 0
       }
     },
     {
       "wahhat" : {
-        "name": "Purple hat",
+        "name": "Purple Hat",
         "type": "clothing",
-        "src" : "sprite/OrphanHeadPurple",
-        "dialogue": "",
+        "src" : "sprites/OrphanHeadPurple",
+        "bark": "",
+        "price": 0
+      }
+    },
+    {
+      "2bbody" : {
+        "name": "Android Clothes",
+        "type": "clothing",
+        "src" : "sprites/OrphanBodyTooby",
+        "bark": "",
+        "price": 0
+      }
+    },
+    {
+      "2bhead" : {
+        "name": "Android Wig",
+        "type": "Clothing",
+        "src" : "sprites/OrphanHeadTooby",
+        "bark": "",
         "price": 0
       }
     },
@@ -50,7 +68,7 @@
         "name": "",
         "type": "",
         "src" : "",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
@@ -59,7 +77,7 @@
         "name": "",
         "type": "",
         "src" : "",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
@@ -68,7 +86,7 @@
         "name": "",
         "type": "",
         "src" : "",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
@@ -77,7 +95,7 @@
         "name": "",
         "type": "",
         "src" : "",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
@@ -86,7 +104,7 @@
         "name": "",
         "type": "",
         "src" : "",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     },
@@ -95,25 +113,7 @@
         "name": "",
         "type": "",
         "src" : "",
-        "dialogue": "",
-        "price": 0
-      }
-    },
-    {
-      "" : {
-        "name": "",
-        "type": "",
-        "src" : "",
-        "dialogue": "",
-        "price": 0
-      }
-    },
-    {
-      "" : {
-        "name": "",
-        "type": "",
-        "src" : "",
-        "dialogue": "",
+        "bark": "",
         "price": 0
       }
     }
