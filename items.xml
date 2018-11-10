@@ -19,6 +19,15 @@
     </orphanhat>
   </items>
   <items>
+    <potatosack>
+      <name>Potato Sack</name>
+      <type>Clothing</type>
+      <src>sprites/OrphanBodyPotatoSack</src>
+      <bark></bark>
+      <price>0</price>
+    </2bhead>
+  </items>
+  <items>
     <lucky>
       <name>Lucky Clothes</name>
       <type>clothing</type>
