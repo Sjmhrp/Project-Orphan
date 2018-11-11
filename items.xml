@@ -2,7 +2,7 @@
 <root>
   <items>
     <orphanbody>
-      <name>Orphan&#x27;s Clothes</name>
+      <name>Orphan's Clothes</name>
       <type>clothing</type>
       <src>sprites/OrphanBodyBlue</src>
       <bark></bark>
@@ -11,7 +11,7 @@
   </items>
   <items>
     <orphanhat>
-      <name>Orphan&#x27;s Hat</name>
+      <name>Orphan's Hat</name>
       <type>head</type>
       <src>sprites/OrphanHeadBlueGrimy</src>
       <bark></bark>
