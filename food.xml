@@ -38,7 +38,7 @@
   </items>
   <items>
     <chicken>
-      <name>Fashionable Rotisserie Chicken</name>
+      <name>Fashionable Chicken</name>
       <type>food</i>
       <src>sprites/</src>
       <food>14</food>
