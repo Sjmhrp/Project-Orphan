@@ -24,8 +24,26 @@
       <type>clothing</type>
       <src>sprites/OrphanBodyPotatoSack</src>
       <bark></bark>
-      <price>5</price>
+      <price>0.05</price>
     </2bhead>
+  </items>
+  <items>
+    <brownbody>
+      <name>Brown Clothes</name>
+      <type>clothing</type>
+      <src>sprites/OrphanBodyBrown</src>
+      <bark></bark>
+      <price>0.50</price>
+    </brownbody>
+  </items>
+  <items>
+    <brownhat>
+      <name>Brown Cap</name>
+      <type>head</type>
+      <src>sprites/OrphanHeadBrownGrimy</src>
+      <bark></bark>
+      <price>0.2</price>
+    </brownhat>
   </items>
   <items>
     <lucky>
@@ -33,7 +51,7 @@
       <type>clothing</type>
       <src>sprites/OrphanBodyLucky</src>
       <bark></bark>
-      <price>777</price>
+      <price>7.77</price>
     </lucky>
   </items>
   <items>
@@ -42,7 +60,7 @@
       <type>head</type>
       <src>sprites/OrphanHeadLucky</src>
       <bark></bark>
-      <price>77</price>
+      <price>0.77</price>
     </luckyhead>
   </items>
   <items>
@@ -51,7 +69,7 @@
       <type>clothing</type>
       <src>sprites/OrphanBodyPurple</src>
       <bark>WAH</bark>
-      <price>250</price>
+      <price>2.50</price>
     </wah>
   </items>
   <items>
@@ -60,7 +78,7 @@
       <type>head</type>
       <src>sprites/OrphanHeadPurple</src>
       <bark></bark>
-      <price>60</price>
+      <price>0.60</price>
     </wahhat>
   </items>
   <items>
@@ -69,7 +87,7 @@
       <type>clothing</type>
       <src>sprites/OrphanBodyTooby</src>
       <bark></bark>
-      <price>2000</price>
+      <price>40</price>
     </2bbody>
   </items>
   <items>
@@ -78,7 +96,16 @@
       <type>head</type>
       <src>sprites/OrphanHeadTooby</src>
       <bark></bark>
-      <price>200</price>
+      <price>20</price>
     </2bhead>
+  </items>
+  <items>
+    <goldsuit>
+      <name>Golden Suit</name>
+      <type>clothing</type>
+      <src>sprites/OrphanBodyGold</src>
+      <bark></bark>
+      <price>20</price>
+    </goldsuit>
   </items>
 </root>
