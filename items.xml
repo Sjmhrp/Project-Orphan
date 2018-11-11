@@ -105,7 +105,7 @@
       <type>clothing</type>
       <src>sprites/OrphanBodyGold</src>
       <bark></bark>
-      <price>20</price>
+      <price>200</price>
     </goldsuit>
   </items>
 </root>
